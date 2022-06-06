@@ -1,0 +1,13 @@
+[
+    {
+        "make": "",
+        "model": "camry",
+        "start_year": "2018",
+        "end_year": "2021",
+        "zipcode": "02062",
+        "distance": 100,
+        "deal_quality": "good",
+        "number_of_listings": 15,
+        "mileage": 50000
+    }
+]
